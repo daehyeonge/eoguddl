@@ -6,4 +6,4 @@
    I've been developing Backend mainly using Java, and algorithm for Python.
  </p>
 
- <h1>🛠 Tech Stack</h1>
+ <h3>🛠 Tech Stack</h3>

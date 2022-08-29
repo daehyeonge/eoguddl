@@ -3,5 +3,5 @@
 </p>
 <td>
  <p>
-   I've been developing Backend mainly using Java.
+   I've been developing Backend mainly using Java, and algorithm for Python.
  </p>

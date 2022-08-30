@@ -32,7 +32,6 @@
  </p>
  <h3>📞 Contact</h3>
  <p>
- <a href="https://www.google.com/" target="_blank">Google</a>
-<img src="https://img.shields.io/badge/eoguddl.dev@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+ <a href="https://www.google.com/" target="_blank"><img src="https://img.shields.io/badge/eoguddl.dev@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
  </p>

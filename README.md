@@ -1,6 +1,6 @@
-<p>
+<h2>
  👋 Hi there! I'm Backend Developer.
-</p>
+</h2>
 <td>
  <p>
    I've been developing Backend mainly using Java, and algorithm for Python.

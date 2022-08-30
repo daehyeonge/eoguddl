@@ -34,5 +34,5 @@
  <p>
  <a href="https://www.google.com/" target="_blank"><img src="https://img.shields.io/badge/eoguddl.dev@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
  <a href=https://www.instagram.com/d_.hyeong/ target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
+ <img src="https://img.shields.io/badge/대형이#8507-5865F2?style=flat&logo=Discord&logoColor=white"/>
  </p>

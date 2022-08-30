@@ -30,5 +30,6 @@
  <img src="https://img.shields.io/badge/PyCharm-00D564?style=flat&logo=PyCharm&logoColor=white"/>
  <img src="https://img.shields.io/badge/WebStorm-036CB5?style=flat&logo=WebStorm&logoColor=white"/>
  </p>
-
- <p>
+ <h3>📞 Contact</h3>
+ <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>

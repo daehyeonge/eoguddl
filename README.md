@@ -25,9 +25,9 @@
  <p>
  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
- <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
- <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
- <img src="https://img.shields.io/badge/WebStorm-990000?style=flat&logo=WebStorm&logoColor=white"/>
+ <img src="https://img.shields.io/badge/IntelliJ IDEA-E74536?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+ <img src="https://img.shields.io/badge/PyCharm-00D564?style=flat&logo=PyCharm&logoColor=white"/>
+ <img src="https://img.shields.io/badge/WebStorm-036CB5?style=flat&logo=WebStorm&logoColor=white"/>
  </p>
 
  <p>

@@ -32,7 +32,7 @@
  </p>
  <h3>📞 Contact</h3>
  <p>
- <p href="https://comic.naver.com/webtoon/list?titleId=767908"><img src="https://img.shields.io/badge/eoguddl.dev@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></p>
+ <p id="gmail"><img src="https://img.shields.io/badge/eoguddl.dev@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></p>
  [https://comic.naver.com/webtoon/list?titleId=767908](#gmail)
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
  </p>
